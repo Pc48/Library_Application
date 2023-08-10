@@ -1,13 +1,4 @@
-// Final Project Milestone 2
-// LibApp Mockup Module
-// File	ms2_tester.cpp
-// Version 1.0
-// Author	Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-// 
-/////////////////////////////////////////////////////////////////
+
 #include <iostream>
 #include "LibApp.h"
 using namespace std;
