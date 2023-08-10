@@ -20,6 +20,9 @@ Later these messages are replaced with actual working modules to make the applic
 
 Creating a mockup application before developing the main program helps to understand the entire system and also demonstrates the execution of the program to the client before the application is fully developed.
 
+## Publication class
+The publication class is responsible for handling the new data of the publication as well as updating them too.
+
 
 ## The Book class 
 The Book class is derived from the Publication class. A book is a publication with an "Author name".
