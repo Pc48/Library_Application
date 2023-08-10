@@ -1,19 +1,3 @@
-// Final Project
-// Date Tester program
-// File	dateTester.cpp
-// Version 1.0
-// Author	Fardad Soleimanloo
-// Description
-// This programs test the student coding to complete of the Date class
-//
-// When testing before submission: DO NOT MODIFY THIS FILE IN ANY WAY
-//
-//
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
-
 #include <iostream>
 using namespace std;
 #include "Date.h"
