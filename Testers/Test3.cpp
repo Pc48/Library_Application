@@ -1,10 +1,3 @@
-// Final Project Milestone 3
-// Periodical Publication 
-// Author	Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
 #include <iostream>
 #include <fstream>
 #include "Publication.h"
