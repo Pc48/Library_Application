@@ -1,24 +1,9 @@
-// Final Project Milestone 1 
-// Date and Menu Modules
-// Version 1.0
-// Author	Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
-//Matthew MacLennan 137971222
-//mmaclennan3@myseneca.ca
-//2023-05-18
-//I have done all the coding by myself and only copied the code that my professor provided to 
-//complete my workshops and assignments.
 #include <iostream>
 #include "Date.h"
 #include "Menu.h"
 #include "Utils.h"
 
-//Please use putty for termial client on Matrix (https://www.putty.org/)
-//#define SDDS_LINUX  // Comment this to run on windows, 
-					  // Uncommnet the above line to run on linux
+
 
 #ifdef SDDS_LINUX  // Linux or Mac Console Colors
 const char col_grey[] = "\e[38;5;8m";
